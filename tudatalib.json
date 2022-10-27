@@ -1,0 +1,92 @@
+{
+    "rightsList": {"rights": [
+        "Creative Commons Attribution 4.0",
+        {"rightsURI": "https://creativecommons.org/licenses/by/4.0/"}
+    ]},
+    "creators": {"creator": {
+        "givenName": "Jan-Karl",
+        "familyName": "Knigge",
+        "creatorName": {
+            "nameType": "Personal",
+            "content": "Knigge, Jan-Karl"
+        }
+    }},
+    "subjects": {"subject": [
+        "Virtual Reality",
+        "Head Mounted Display",
+        "Head Mounted Device",
+        "Manual Order Picking",
+        "Systematic Literature Review",
+        {
+            "xml:lang": "de",
+            "schemeURI": "https://www.dfg.de/dfg_profil/gremien/fachkollegien/faecher",
+            "content": "112-03 Betriebswirtschaftslehre",
+            "subjectScheme": "DFG"
+        },
+        {
+            "xml:lang": "en",
+            "schemeURI": "https://www.dfg.de/en/dfg_profile/statutory_bodies/review_boards/subject_areas/index.jsp",
+            "content": "112-03 Business Administration",
+            "subjectScheme": "DFG"
+        },
+        {
+            "xml:lang": "de",
+            "schemeURI": "https://www.dfg.de/dfg_profil/gremien/fachkollegien/faecher",
+            "content": "407-05 Arbeitswissenschaft, Ergonomie, Mensch-Maschine-Systeme",
+            "subjectScheme": "DFG"
+        },
+        {
+            "xml:lang": "en",
+            "schemeURI": "https://www.dfg.de/en/dfg_profile/statutory_bodies/review_boards/subject_areas/index.jsp",
+            "content": "407-05 Human Factors, Ergonomics, Human-Machine Systems",
+            "subjectScheme": "DFG"
+        },
+        {
+            "schemeURI": "https://www.oclc.org/de/dewey.html",
+            "content": "650",
+            "subjectScheme": "DDC"
+        },
+        {
+            "schemeURI": "https://www.oclc.org/de/dewey.html",
+            "content": "620",
+            "subjectScheme": "DDC"
+        }
+    ]},
+    "xmlns:dfgReader": "xalan://de.tu_darmstadt.ulb.tudata.dataimport.DfgReader",
+    "dates": {"date": [
+        {
+            "dateType": "Accepted",
+            "content": "2020-08-26"
+        },
+        {
+            "dateType": "Available",
+            "content": "2020-08-26"
+        },
+        {
+            "dateType": "Issued",
+            "content": "2020"
+        }
+    ]},
+    "language": "de",
+    "titles": {"title": "Systematic Literature Review Data"},
+    "descriptions": {"description": {
+        "descriptionType": "Other",
+        "content": "Full sample of journal articles analysed in a systematic literature review. The full list of articles has been obtained by a database search in Web of Science and Business Source Premier by EBSCO Host on June, 22nd 2020, using the following search string: (\"Virtual Reality\" OR VR) AND (\"Head Mounted Device*\" OR \"Head Mounted Display*\" OR HMD*\r\r\nOR \"HTC Vive\" OR \"Oculus Rift\")"
+    }},
+    "url": "https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2478",
+    "alternateIdentifiers": {"alternateIdentifier": {
+        "content": "https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2478",
+        "alternateIdentifierType": "uri"
+    }},
+    "publisher": "TU Darmstadt",
+    "publicationYear": "2020",
+    "contributors": {"contributor": {
+        "contributorType": "HostingInstitution",
+        "contributorName": "TU Darmstadt"
+    }},
+    "id": "https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2478",
+    "resourceType": {
+        "resourceTypeGeneral": "Dataset",
+        "content": "Dataset"
+    }
+}
